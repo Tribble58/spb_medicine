@@ -27,7 +27,7 @@
 - https://drive.google.com/file/d/14CWDYLqUMt3OH7BhGyYbEu4xiqiXV3r9/view?usp=sharing - данные о заражаемости COVID-19
 - https://drive.google.com/file/d/1z1emKPcQXlcJ__WYefKSkPgZs_RRA7lQ/view?usp=sharing - данные о погоде
 - https://drive.google.com/file/d/18NIGQFF2P9OAqTYWUK9UY8tjAs7pngvT/view?usp=sharing - данные о населении и координатах
-- https://drive.google.com/file/d/1-35qLzp1DOFXFcN6KzxjPD4juk3F7al8/view?usp=sharing - единый набор данных (объединённый с использованием файла Data_Preproccessing.ipynb
+- https://drive.google.com/file/d/1-35qLzp1DOFXFcN6KzxjPD4juk3F7al8/view?usp=sharing - единый набор данных (объединённый с использованием файла Data_Preproccessing.ipynb<p>
 Примечание: отдельные файлы с данными нужны для работы файла Data_Preproccessing.ipynb; единый набор данных нужен для работы файла Model.ipynb и программы с графическим интерфейсом, поставляемой в архиве
 
 ## Порядок запуска файлов .ipynb:
