@@ -32,6 +32,7 @@ GPOWER.rar - архив, содержащий в себе:
 - https://drive.google.com/file/d/18NIGQFF2P9OAqTYWUK9UY8tjAs7pngvT/view?usp=sharing - данные о населении и координатах
 - https://drive.google.com/file/d/1-35qLzp1DOFXFcN6KzxjPD4juk3F7al8/view?usp=sharing - единый набор данных (объединённый с использованием файла Data_Preproccessing.ipynb<p>
 - https://drive.google.com/file/d/1gW0z6V39oQN624JThpFtYdKuaDOYyyvy/view?usp=sharing - архив с исполняемым файлом программы GPOWER
+- https://drive.google.com/file/d/1n1fvdjIsLuCas1uerfpZVyJz7MPFX_nW/view?usp=sharing - видео, как работает программа.
 
 Примечание: отдельные файлы с данными нужны для работы файла Data_Preproccessing.ipynb; единый набор данных нужен для работы файла Model.ipynb и программы с графическим интерфейсом, поставляемой в архиве
 
